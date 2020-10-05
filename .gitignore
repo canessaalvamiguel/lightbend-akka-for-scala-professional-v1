@@ -1,7 +1,7 @@
 .cue
 .git
 .idea
-common
+common/target
 project
 src
 target
